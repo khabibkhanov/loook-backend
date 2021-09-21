@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": 1,
+        "username": "Alisher",
+        "password": "1111",
+        "contact": "9989410499874",
+        "is_admin": true
+    },
+    {
+        "user_id": 4,
+        "username": "B",
+        "password": 1111,
+        "contact": "9989410499874",
+        "is_admin": false
+    }
+]
